@@ -8,5 +8,5 @@ gem 'awesome_print', git: 'http://github.com/awesome-print/awesome_print.git'
 
 
 group :development do 
-  gem "awesome_print"
+  
 end
